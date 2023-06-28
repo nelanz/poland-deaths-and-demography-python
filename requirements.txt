@@ -1,0 +1,10 @@
+shiny
+matplotlib
+pandas
+geopandas
+requests
+shinyswatch
+statsmodels
+patsy
+scikit-learn
+seaborn
